@@ -466,6 +466,7 @@ set_technology = {
 	add_ideas = {
 		trotskyite_plot
 		home_of_revolution
+		heavy_industry
 	}
 
 	set_politics = {
