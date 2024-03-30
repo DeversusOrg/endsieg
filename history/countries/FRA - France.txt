@@ -478,6 +478,7 @@ add_ideas = {
 	heavy_industry
 	advanced_training
 	free_press
+	heavy_industry
 	massive_education_investment
 }
 
@@ -831,7 +832,7 @@ add_ideas = {
 		unrestricted_sub_warfare
 		limited_exports
 		service_by_requirement
-		war_economy
+		heavy_industry
 	}
 
 	create_country_leader = {
